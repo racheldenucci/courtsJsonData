@@ -1,0 +1,22 @@
+
+{ 
+    "name" : "Tribunal Regional do Trabalho da 3ª Região", 
+    "group" : "Tribunais Regionais do Trabalho", 
+    "group_id" : 4.0, 
+    "grade" : 2.0, 
+    "baseUrl" : "https://pje.trt3.jus.br/segundograu", 
+    "system" : "PJE", 
+
+    "sysver" : "2.7.4.1", 
+    "signer" : "PJE", 
+    "sigver" : "1.0.26", 
+    "status" : 1.0, 
+    "lastUpdate" : "", 
+    "uf" : [
+        "MG"
+    ], 
+    "tags" : [
+        "MINAS GERAIS", 
+        "TRT3"
+    ]
+}
