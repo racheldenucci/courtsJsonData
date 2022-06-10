@@ -28,7 +28,7 @@
         "grade": 2.0,
         "baseUrl": "https://pe.tjmg.jus.br/rupe/portaljus/intranet/principal.rupe#",
         "system": "JPE",
-        "sysver": "v9.9.17_20220531164345",
+        "sysver": "9.9.17_20220531164345",
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
@@ -53,7 +53,7 @@
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
-        "lastUpdate": "",
+        "lastUpdate": "10/06/2022",
         "uf": [
             "AC",
             "AM",
@@ -101,7 +101,7 @@
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
-        "lastUpdate": "",
+        "lastUpdate": "10/06/2022",
         "uf": [
             "AC",
             "AM",
@@ -150,7 +150,7 @@
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
-        "lastUpdate": "26/05/2022",
+        "lastUpdate": "09/06/2022",
         "uf": [
             "SP",
             "MS"
@@ -174,7 +174,7 @@
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
-        "lastUpdate": "26/05/2022",
+        "lastUpdate": "09/06/2022",
         "uf": [
             "SP",
             "MS"
@@ -275,6 +275,352 @@
         "tags": [
             "MINAS GERAIS",
             "TRT3"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 15ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt15.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.3",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SP"
+        ],
+        "tags": [
+            "SÃO PAULO",
+            "TRT15"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 15ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt15.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.3",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SP"
+        ],
+        "tags": [
+            "SÃO PAULO",
+            "TRT15"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado de São Paulo",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://esaj.tjsp.jus.br/cpopg/open.do",
+        "system": "ESAJ",
+        "sysver": "2.6.0-0",
+        "signer": "WEBSIGNER",
+        "sigver": "2.14.3",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SP"
+        ],
+        "tags": [
+            "SÃO PAULO"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado de São Paulo",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://esaj.tjsp.jus.br/cposg/open.do",
+        "system": "ESAJ",
+        "sysver": "2.6.0-0",
+        "signer": "WEBSIGNER",
+        "sigver": "2.14.3",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SP"
+        ],
+        "tags": [
+            "SÃO PAULO"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Rio de Janeiro",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://tjrj.pje.jus.br/1g",
+        "system": "PJE",
+        "sysver": "2.1.8.0",
+        "signer": "PJE", 
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "31/05/2022",
+        "uf": [
+            "RJ"
+        ],
+        "tags": [
+            "RIO DE JANEIRO",
+            "TJRJ"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Rio de Janeiro",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://tjrj.pje.jus.br/2g",
+        "system": "PJE",
+        "sysver": "2.1.2.5",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0, 
+        "lastUpdate": "25/06/2022",
+        "uf": [
+            "RJ"
+        ],
+        "tags": [
+            "RIO DE JANEIRO",
+            "TJRJ"
+        ]
+    }, 
+
+    {
+        "name": "Tribunal de Justiça do Estado do Espírito Santo",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://sistemas.tjes.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.1.5.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "15/02/2022",
+        "uf": [
+            "ES"
+        ],
+        "tags": [
+            "ESPIRITO SANTO",
+            "TJES"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Espírito Santo",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://sistemas.tjes.jus.br/pje2g",
+        "system": "PJE",
+        "sysver": "2.1.5.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "17/02/2022",
+        "uf": [
+            "ES"
+        ],
+        "tags": [
+            "ESPIRITO SANTO",
+            "TJES"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 17ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt17.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "SHODO",
+        "sigver": "1.2.0",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "ES"
+        ],
+        "tags": [
+            "ESPIRITO SANTO",
+            "TRT17"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 17ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt17.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "SHODO",
+        "sigver": "1.2.0",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "ES"
+        ],
+        "tags": [
+            "ESPIRITO SANTO",
+            "TRT17"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional Federal da 2ª Região",
+        "group": "Tribunais Regionais Federais",
+        "group_id": 2.0,
+        "grade": 1.0,
+        "baseUrl": "https://eproc.trf2.jus.br/eproc/",
+        "system": "EPROC",
+        "sysver": "8.23.1",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "ES",
+            "RJ"
+        ],
+        "tags": [
+            "ESPIRITO SANTO",
+            "RIO DE JANEIRO",
+            "TRF2"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional Federal da 2ª Região",
+        "group": "Tribunais Regionais Federais",
+        "group_id": 2.0,
+        "grade": 2.0,
+        "baseUrl": "https://eproc.trf2.jus.br/eproc/",
+        "system": "EPROC",
+        "sysver": "8.23.1",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "ES",
+            "RJ"
+        ],
+        "tags": [
+            "ESPIRITO SANTO",
+            "RIO DE JANEIRO",
+            "TRF2"
+        ]
+    },
+
+    {
+        "name": "Tribunal Superior do Trabalho",
+        "group": "Tribunais Superiores e Conselhos",
+        "group_id": 1.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.tst.jus.br/tst",
+        "system": "PJE",
+        "sysver": "2.7.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+        ],
+        "tags": [
+            "TST"
+        ]
+    },
+
+    {
+        "name": "Superior Tribunal de Justiça",
+        "group": "Tribunais Superiores e Conselhos",
+        "group_id": 1.0,
+        "grade": 1.0,
+        "baseUrl": "https://cpe.web.stj.jus.br/",
+        "system": "CPE",
+        "sysver": "1.28.09",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+        ],
+        "tags": [
+            "STJ"
         ]
     }
 ]
