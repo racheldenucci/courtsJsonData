@@ -1,279 +1,280 @@
+[
 
-{ 
-    "name" : "Tribunal de Justiça do Estado de Minas Gerais", 
-    "group" : "Tribunais de Justiça", 
-    "group_id" : 3.0, 
-    "grade" : 1.0, 
-    "baseUrl" : "https://pje.tjmg.jus.br/pje", 
-    "system" : "PJE", 
-    "sysver" : "2.2.0.0.1.10pp", 
-    "signer" : "PJE", 
-    "sigver" : "1.0.26", 
-    "status" : 1.0, 
-    "lastUpdate" : "08/06/2022", 
-    "uf" : [
-        "MG" 
-    ], 
-    "tags" : [
-        "MINAS GERAIS",
-        "TJMG"
-    ]
-}
+     {
+        "name": "Tribunal de Justiça do Estado de Minas Gerais",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.tjmg.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.2.0.0.1.10pp",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "08/06/2022",
+        "uf": [
+            "MG"
+        ],
+        "tags": [
+            "MINAS GERAIS",
+            "TJMG"
+        ]
+    },
 
 {
-    "name" : "Tribunal de Justiça do Estado de Minas Gerais", 
-    "group" : "Tribunais de Justiça", 
-    "group_id" : 3.0, 
-    "grade" : 2.0, 
-    "baseUrl" : "https://pe.tjmg.jus.br/rupe/portaljus/intranet/principal.rupe#", 
-    "system" : "JPE", 
-    "sysver" : "v9.9.17_20220531164345", 
-    "signer" : "PJE", 
-    "sigver" : "1.0.26", 
-    "status" : 1.0, 
-    "lastUpdate" : "", 
-    "uf" : [
-        "MG", 
-    ], 
-    "tags" : [
-        "MINAS GERAIS",
-        "TJMG"
-    ]
-}
+        "name": "Tribunal de Justiça do Estado de Minas Gerais",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pe.tjmg.jus.br/rupe/portaljus/intranet/principal.rupe#",
+        "system": "JPE",
+        "sysver": "v9.9.17_20220531164345",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "MG"
+        ],
+        "tags": [
+            "MINAS GERAIS",
+            "TJMG"
+        ]
+    },
 
-{ 
-    "name" : "Tribunal Regional Federal da 1ª Região", 
-    "group" : "Tribunais Regionais Federais", 
-    "group_id" : 2.0, 
-    "grade" : 1.0, 
-    "baseUrl" : "https://pje1g.trf1.jus.br", 
-    "system" : "PJE", 
-    "sysver" : "2.1.8.0", 
-    "signer" : "PJE", 
-    "sigver" : "1.0.26", 
-    "status" : 1.0, 
-    "lastUpdate" : "", 
-    "uf" : [
-        "AC", 
-        "AM", 
-        "AP", 
-        "BA", 
-        "DF", 
-        "GO", 
-        "MA", 
-        "MG", 
-        "MT", 
-        "PA", 
-        "PI", 
-        "RO", 
-        "RR", 
-        "TO"
-    ], 
-    "tags" : [
-        "ACRE", 
-        "AMAPA", 
-        "BAHIA", 
-        "DISTRITO FEDERAL", 
-        "GOIAS", 
-        "MARANHAO", 
-        "MINAS GERAIS", 
-        "MATO GROSSO", 
-        "PARAIBA", 
-        "PIAUI", 
-        "RONDONIA", 
-        "RORAIMA", 
-        "TOCANTINS", 
-        "TRF1"
-    ]
-}
-
-
-
-{ 
-    "name" : "Tribunal Regional Federal da 1ª Região", 
-    "group" : "Tribunais Regionais Federais", 
-    "group_id" : 2.0, 
-    "grade" : 2.0, 
-    "baseUrl" : "https://pje2g.trf1.jus.br", 
-    "system" : "PJE", 
-    "sysver" : "2.1.8.0", 
-    "signer" : "PJE", 
-    "sigver" : "1.0.26", 
-    "status" : 1.0, 
-    "lastUpdate" : "", 
-    "uf" : [
-        "AC", 
-        "AM", 
-        "AP", 
-        "BA", 
-        "DF", 
-        "GO", 
-        "MA", 
-        "MG", 
-        "MT", 
-        "PA", 
-        "PI", 
-        "RO", 
-        "RR", 
-        "TO"
-    ], 
-    "tags" : [
-        "ACRE", 
-        "AMAPA", 
-        "BAHIA", 
-        "DISTRITO FEDERAL", 
-        "GOIAS", 
-        "MARANHAO", 
-        "MINAS GERAIS", 
-        "MATO GROSSO", 
-        "PARAIBA", 
-        "PIAUI", 
-        "RONDONIA", 
-        "RORAIMA", 
-        "TOCANTINS", 
-        "TRF1"
-    ]
-}
+{
+        "name": "Tribunal Regional Federal da 1ª Região",
+        "group": "Tribunais Regionais Federais",
+        "group_id": 2.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje1g.trf1.jus.br",
+        "system": "PJE",
+        "sysver": "2.1.8.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AC",
+            "AM",
+            "AP",
+            "BA",
+            "DF",
+            "GO",
+            "MA",
+            "MG",
+            "MT",
+            "PA",
+            "PI",
+            "RO",
+            "RR",
+            "TO"
+        ],
+        "tags": [
+            "ACRE",
+            "AMAPA",
+            "BAHIA",
+            "DISTRITO FEDERAL",
+            "GOIAS",
+            "MARANHAO",
+            "MINAS GERAIS",
+            "MATO GROSSO",
+            "PARAIBA",
+            "PIAUI",
+            "RONDONIA",
+            "RORAIMA",
+            "TOCANTINS",
+            "TRF1"
+        ]
+    },
 
 
 
-
-{ 
-    "name" : "Tribunal Regional Federal da 3ª Região", 
-    "group" : "Tribunais Regionais Federais", 
-    "group_id" : 2.0, 
-    "grade" : 1.0, 
-    "baseUrl" : "https://pje1g.trf3.jus.br/pje", 
-    "system" : "PJE", 
-    "sysver" : "2.1.8.0", 
-    "signer" : "PJE", 
-    "sigver" : "1.0.26", 
-    "status" : 1.0, 
-    "lastUpdate" : "26/05/2022", 
-    "uf" : [
-        "SP",
-        "MS"
-    ], 
-    "tags" : [
-        "SÃO PAULO", 
-        "MATO GROSSO DO SUL", 
-        "TRF3"
-    ]
-}
-
-
-{ 
-    "name" : "Tribunal Regional Federal da 3ª Região", 
-    "group" : "Tribunais Regionais Federais", 
-    "group_id" : 2.0, 
-    "grade" : 2.0, 
-    "baseUrl" : "https://pje2g.trf3.jus.br/pje", 
-    "system" : "PJE", 
-    "sysver" : "2.1.8.0", 
-    "signer" : "PJE", 
-    "sigver" : "1.0.26", 
-    "status" : 1.0, 
-    "lastUpdate" : "26/05/2022", 
-    "uf" : [
-        "SP",
-        "MS"
-    ], 
-    "tags" : [
-        "SÃO PAULO", 
-        "MATO GROSSO DO SUL", 
-        "TRF3"
-    ]
-}
-
-{ 
-    "name" : "Tribunal Regional do Trabalho da 2ª Região", 
-    "group" : "Tribunais Regionais do Trabalho", 
-    "group_id" : 4.0, 
-    "grade" : 1.0, 
-    "baseUrl" : "https://pje.trt2.jus.br/primeirograu", 
-    "system" : "PJE", 
-    "sysver" : "2.7.4.1", 
-    "signer" : "PJE", 
-    "sigver" : "1.0.26", 
-    "status" : 1.0, 
-    "lastUpdate" : "", 
-    "uf" : [
-        "SP",
-    ], 
-    "tags" : [
-        "SÃO PAULO", 
-        "TRT2"
-    ]
-}
-
-
-
-{ 
-    "name" : "Tribunal Regional do Trabalho da 2ª Região", 
-    "group" : "Tribunais Regionais do Trabalho", 
-    "group_id" : 4.0, 
-    "grade" : 2.0, 
-    "baseUrl" : "https://pje.trt2.jus.br/segundograu", 
-    "system" : "PJE", 
-    "sysver" : "2.7.4.1", 
-    "signer" : "PJE", 
-    "sigver" : "1.0.26", 
-    "status" : 1.0, 
-    "lastUpdate" : "", 
-    "uf" : [
-        "SP",
-    ], 
-    "tags" : [
-        "SÃO PAULO", 
-        "TRT2"
-    ]
-}
+{
+        "name": "Tribunal Regional Federal da 1ª Região",
+        "group": "Tribunais Regionais Federais",
+        "group_id": 2.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje2g.trf1.jus.br",
+        "system": "PJE",
+        "sysver": "2.1.8.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AC",
+            "AM",
+            "AP",
+            "BA",
+            "DF",
+            "GO",
+            "MA",
+            "MG",
+            "MT",
+            "PA",
+            "PI",
+            "RO",
+            "RR",
+            "TO"
+        ],
+        "tags": [
+            "ACRE",
+            "AMAPA",
+            "BAHIA",
+            "DISTRITO FEDERAL",
+            "GOIAS",
+            "MARANHAO",
+            "MINAS GERAIS",
+            "MATO GROSSO",
+            "PARAIBA",
+            "PIAUI",
+            "RONDONIA",
+            "RORAIMA",
+            "TOCANTINS",
+            "TRF1"
+        ]
+    },
 
 
 
 
+{
+        "name": "Tribunal Regional Federal da 3ª Região",
+        "group": "Tribunais Regionais Federais",
+        "group_id": 2.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje1g.trf3.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.1.8.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "26/05/2022",
+        "uf": [
+            "SP",
+            "MS"
+        ],
+        "tags": [
+            "SÃO PAULO",
+            "MATO GROSSO DO SUL",
+            "TRF3"
+        ]
+    },
 
-{ 
-    "name" : "Tribunal Regional do Trabalho da 3ª Região", 
-    "group" : "Tribunais Regionais do Trabalho", 
-    "group_id" : 4.0, 
-    "grade" : 1.0, 
-    "baseUrl" : "https://pje.trt3.jus.br/primeirograu", 
-    "system" : "PJE", 
-    "sysver" : "2.7.4.1", 
-    "signer" : "PJE", 
-    "sigver" : "1.0.26", 
-    "status" : 1.0, 
-    "lastUpdate" : "", 
-    "uf" : [
-        "MG",
-    ], 
-    "tags" : [
-        "MINAS GERAIS", 
-        "TRT3"
-    ]
-}
+
+{
+        "name": "Tribunal Regional Federal da 3ª Região",
+        "group": "Tribunais Regionais Federais",
+        "group_id": 2.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje2g.trf3.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.1.8.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "26/05/2022",
+        "uf": [
+            "SP",
+            "MS"
+        ],
+        "tags": [
+            "SÃO PAULO",
+            "MATO GROSSO DO SUL",
+            "TRF3"
+        ]
+    },
+
+{
+        "name": "Tribunal Regional do Trabalho da 2ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt2.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SP"
+        ],
+        "tags": [
+            "SÃO PAULO",
+            "TRT2"
+        ]
+    },
 
 
 
-{ 
-    "name" : "Tribunal Regional do Trabalho da 3ª Região", 
-    "group" : "Tribunais Regionais do Trabalho", 
-    "group_id" : 4.0, 
-    "grade" : 2.0, 
-    "baseUrl" : "https://pje.trt3.jus.br/segundograu", 
-    "system" : "PJE", 
-    "sysver" : "2.7.4.1", 
-    "signer" : "PJE", 
-    "sigver" : "1.0.26", 
-    "status" : 1.0, 
-    "lastUpdate" : "", 
-    "uf" : [
-        "MG"
-    ], 
-    "tags" : [
-        "MINAS GERAIS", 
-        "TRT3"
-    ]
-}
+{
+        "name": "Tribunal Regional do Trabalho da 2ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt2.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SP"
+        ],
+        "tags": [
+            "SÃO PAULO",
+            "TRT2"
+        ]
+    },
 
+
+
+
+
+{
+        "name": "Tribunal Regional do Trabalho da 3ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt3.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "MG"
+        ],
+        "tags": [
+            "MINAS GERAIS",
+            "TRT3"
+        ]
+    },
+
+
+
+{
+        "name": "Tribunal Regional do Trabalho da 3ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt3.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "MG"
+        ],
+        "tags": [
+            "MINAS GERAIS",
+            "TRT3"
+        ]
+    }
+]
