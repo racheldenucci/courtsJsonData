@@ -7,11 +7,11 @@
         "grade": 1.0,
         "baseUrl": "https://pje.tjmg.jus.br/pje",
         "system": "PJE",
-        "sysver": "2.2.0.0.1.10pp",
+        "sysver": "2.2.0.0.1.12",
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
-        "lastUpdate": "08/06/2022",
+        "lastUpdate": "10/06/2022",
         "uf": [
             "MG"
         ],
@@ -621,6 +621,287 @@
         ],
         "tags": [
             "STJ"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado de Santa Catarina",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://eproc1g.tjsc.jus.br/eproc",
+        "system": "EPROC",
+        "sysver": "8.22.5",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SC"
+        ],
+        "tags": [
+            "SANTA CATARINA",
+            "TJSC"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado de Santa Catarina",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://eproc2g.tjsc.jus.br/eproc",
+        "system": "EPROC",
+        "sysver": "8.22.5",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SC"
+        ],
+        "tags": [
+            "SANTA CATARINA",
+            "TJSC"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 12ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt12.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "SHODO",
+        "sigver": "1.2.0",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SC"
+        ],
+        "tags": [
+            "SANTA CATARINA",
+            "TRT12"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 12ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt12.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "SHODO",
+        "sigver": "1.2.0",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SC"
+        ],
+        "tags": [
+            "SANTA CATARINA",
+            "TRT12"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Rio Grande do Sul",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://eproc1g.tjrs.jus.br/eproc",
+        "system": "EPROC",
+        "sysver": "8.24.1",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "RS"
+        ],
+        "tags": [
+            "RIO GRANDE DO SUL",
+            "TJRS"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Rio Grande do Sul",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://eproc2g.tjrs.jus.br/eproc",
+        "system": "EPROC",
+        "sysver": "8.24.1",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "RS"
+        ],
+        "tags": [
+            "RIO GRANDE DO SUL",
+            "TJRS"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 4ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt4.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "RS"
+        ],
+        "tags": [
+            "RIO GRANDE DO SUL",
+            "TRT4"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 4ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt4.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "RS"
+        ],
+        "tags": [
+            "RIO GRANDE DO SUL",
+            "TRT4"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Paraná",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://projudi.tjpr.jus.br/projudi/",
+        "system": "PROJUDI",
+        "sysver": "2022.2.0",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PR"
+        ],
+        "tags": [
+            "PARANA",
+            "TJPR"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Paraná",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://projudi.tjpr.jus.br/projudi/",
+        "system": "PROJUDI",
+        "sysver": "2022.2.0",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PR"
+        ],
+        "tags": [
+            "PARANA",
+            "TJPR"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 9ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt9.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.3",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PR"
+        ],
+        "tags": [
+            "PARANA",
+            "TRT9"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional Federal da 4ª Região",
+        "group": "Tribunais Regionais Federais",
+        "group_id": 2.0,
+        "grade": 1.0,
+        "baseUrl": "https://eproc.trf4.jus.br/eproc2trf4/",
+        "system": "EPROC",
+        "sysver": "8.25.3",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PR",
+            "SC",
+            "RS"
+        ],
+        "tags": [
+            "PARANA",
+            "SANTA CATARINA",
+            "RIO GRANDE DO SUL",
+            "TRF4"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional Federal da 4ª Região",
+        "group": "Tribunais Regionais Federais",
+        "group_id": 2.0,
+        "grade": 2.0,
+        "baseUrl": "https://eproc.trf4.jus.br/eproc2trf4/",
+        "system": "EPROC",
+        "sysver": "8.25.3",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PR",
+            "SC",
+            "RS"
+        ],
+        "tags": [
+            "PARANA",
+            "SANTA CATARINA",
+            "RIO GRANDE DO SUL",
+            "TRF4"
         ]
     }
 ]
