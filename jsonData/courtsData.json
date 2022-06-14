@@ -7,11 +7,11 @@
         "grade": 1.0,
         "baseUrl": "https://pje.tjmg.jus.br/pje",
         "system": "PJE",
-        "sysver": "2.2.0.0.1.12",
+        "sysver": " 2.2.0.0.1.13",
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
-        "lastUpdate": "10/06/2022",
+        "lastUpdate": "13/06/2022",
         "uf": [
             "MG"
         ],
@@ -327,7 +327,7 @@
         "grade": 1.0,
         "baseUrl": "https://esaj.tjsp.jus.br/cpopg/open.do",
         "system": "ESAJ",
-        "sysver": "2.6.0-0",
+        "sysver": "2.6.0",
         "signer": "WEBSIGNER",
         "sigver": "2.14.3",
         "status": 1.0,
@@ -347,7 +347,7 @@
         "grade": 2.0,
         "baseUrl": "https://esaj.tjsp.jus.br/cposg/open.do",
         "system": "ESAJ",
-        "sysver": "2.6.0-0",
+        "sysver": "2.6.0",
         "signer": "WEBSIGNER",
         "sigver": "2.14.3",
         "status": 1.0,
@@ -838,8 +838,29 @@
         "name": "Tribunal Regional do Trabalho da 9ª Região",
         "group": "Tribunais Regionais do Trabalho",
         "group_id": 4.0,
-        "grade": 2.0,
+        "grade": 1.0,
         "baseUrl": "https://pje.trt9.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.3",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PR"
+        ],
+        "tags": [
+            "PARANA",
+            "TRT9"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 9ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt9.jus.br/segundograu",
         "system": "PJE",
         "sysver": "2.7.3",
         "signer": "PJE",
@@ -902,6 +923,598 @@
             "SANTA CATARINA",
             "RIO GRANDE DO SUL",
             "TRF4"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado de Goiás",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pjd.tjgo.jus.br/",
+        "system": "PJD",
+        "sysver": "1.0.331",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "10/06/2022",
+        "uf": [
+            "GO"
+        ],
+        "tags": [
+            "GOIAS",
+            "TJGO"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado de Goiás",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pjd.tjgo.jus.br/",
+        "system": "PJD",
+        "sysver": "1.0.331",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "10/06/2022",
+        "uf": [
+            "GO"
+        ],
+        "tags": [
+            "GOIAS",
+            "TJGO"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 18ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt18.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "GO"
+        ],
+        "tags": [
+            "GOIAS",
+            "TRT18"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 18ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt18.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "GO"
+        ],
+        "tags": [
+            "GOIAS",
+            "TRT18"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Mato Grosso",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.tjmt.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.2.0.0.20220613",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "13/06/2022",
+        "uf": [
+            "MT"
+        ],
+        "tags": [
+            "MATO GROSSO",
+            "TJMT"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Mato Grosso",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.tjmt.jus.br/pje2",
+        "system": "PJE",
+        "sysver": "2.2.0.0.20220613",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "13/06/2022",
+        "uf": [
+            "MT"
+        ],
+        "tags": [
+            "MATO GROSSO",
+            "TJMT"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 23ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt23.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "MT"
+        ],
+        "tags": [
+            "MATO GROSSO",
+            "TRT23"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 23ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt23.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "MT"
+        ],
+        "tags": [
+            "MATO GROSSO",
+            "TRT23"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Mato Grosso do Sul",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://esaj.tjms.jus.br/cpopg5",
+        "system": "ESAJ",
+        "sysver": "2.6.0",
+        "signer": "WEBSIGNER",
+        "sigver": "2.14.3",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "MS"
+        ],
+        "tags": [
+            "MATO GROSSO DO SUL",
+            "TJMS"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Mato Grosso do Sul",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://esaj.tjms.jus.br/cposg5",
+        "system": "ESAJ",
+        "sysver": "2.6.0",
+        "signer": "WEBSIGNER",
+        "sigver": "2.14.3",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "MS"
+        ],
+        "tags": [
+            "MATO GROSSO DO SUL",
+            "TJMS"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 24ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt24.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "MS"
+        ],
+        "tags": [
+            "MATO GROSSO DO SUL",
+            "TRT24"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 24ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt24.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "MS"
+        ],
+        "tags": [
+            "MATO GROSSO DO SUL",
+            "TRT24"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Distrito Federal e Territórios",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.tjdft.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.1.2.4",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "14/06/2022",
+        "uf": [
+            "DF"
+        ],
+        "tags": [
+            "DISTRITO FEDERAL",
+            "TJDFT"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Distrito Federal e Territórios",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje2i.tjdft.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.1.2.4",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "14/06/2022",
+        "uf": [
+            "DF"
+        ],
+        "tags": [
+            "DISTRITO FEDERAL",
+            "TJDFT"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 10ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt10.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "SHODO",
+        "sigver": "1.2.0",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "TO",
+            "DF"
+        ],
+        "tags": [
+            "TOCANTINS",
+            "DISTRITO FEDERAL",
+            "TRT24"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 10ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt10.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "SHODO",
+        "sigver": "1.2.0",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "TO",
+            "DF"
+        ],
+        "tags": [
+            "TOCANTINS",
+            "DISTRITO FEDERAL",
+            "TRT24"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado da Bahia",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.tjba.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.1.6.2",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "09/06/2022",
+        "uf": [
+            "BA"
+        ],
+        "tags": [
+            "BAHIA",
+            "TJBA"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado da Bahia",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje2g.tjba.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.1.6.2",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "09/06/2022",
+        "uf": [
+            "BA"
+        ],
+        "tags": [
+            "BAHIA",
+            "TJBA"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 5ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt5.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "BA"
+        ],
+        "tags": [
+            "BAHIA",
+            "TRT5"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 5ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt5.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "BA"
+        ],
+        "tags": [
+            "BAHIA",
+            "TRT5"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Maranhão",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.tjma.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.1.6.2",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "06/05/2022",
+        "uf": [
+            "MA"
+        ],
+        "tags": [
+            "MARANHÃO",
+            "TJMA"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Maranhão",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje2.tjma.jus.br/pje2g",
+        "system": "PJE",
+        "sysver": "2.1.6.2",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "06/05/2022",
+        "uf": [
+            "MA"
+        ],
+        "tags": [
+            "MARANHÃO",
+            "TJMA"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 16ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt16.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "MA"
+        ],
+        "tags": [
+            "MARANHÃO",
+            "TRT16"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 16ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt16.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "MA"
+        ],
+        "tags": [
+            "MARANHÃO",
+            "TRT16"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Piauí",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://tjpi.pje.jus.br/1g",
+        "system": "PJE",
+        "sysver": "2.1.12.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "09/06/2022",
+        "uf": [
+            "PI"
+        ],
+        "tags": [
+            "PIAUI",
+            "TJPI"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Piauí",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://tjpi.pje.jus.br/2g",
+        "system": "PJE",
+        "sysver": "2.1.12.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "09/06/2022",
+        "uf": [
+            "PI"
+        ],
+        "tags": [
+            "PIAUI",
+            "TJPI"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 22ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt22.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "SHODO",
+        "sigver": "1.2.0",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PI"
+        ],
+        "tags": [
+            "PIAUI",
+            "TRT22"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 22ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt22.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "SHODO",
+        "sigver": "1.2.0",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PI"
+        ],
+        "tags": [
+            "PIAUI",
+            "TRT22"
         ]
     }
 ]
