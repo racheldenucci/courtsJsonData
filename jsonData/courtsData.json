@@ -1516,5 +1516,899 @@
             "PIAUI",
             "TRT22"
         ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Ceará",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.tjce.jus.br/pje1grau",
+        "system": "PJE",
+        "sysver": "2.1.2.5",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "20/04/2022",
+        "uf": [
+            "CE"
+        ],
+        "tags": [
+            "CEARA",
+            "TJCE"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Ceará",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.tjce.jus.br/pje2grau",
+        "system": "PJE",
+        "sysver": "2.1.2.5",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "20/04/2022",
+        "uf": [
+            "CE"
+        ],
+        "tags": [
+            "CEARA",
+            "TJCE"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 7ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt7.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "CE"
+        ],
+        "tags": [
+            "CEARA",
+            "TRT7"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 7ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt7.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "CE"
+        ],
+        "tags": [
+            "CEARA",
+            "TRT7"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Rio Grande do Norte",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje1g.tjrn.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.1.9.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "08/06/2022",
+        "uf": [
+            "RN"
+        ],
+        "tags": [
+            "RIO GRANDE DO NORTE",
+            "TJRN"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Rio Grande do Norte",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje2g.tjrn.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.1.9.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "08/06/2022",
+        "uf": [
+            "RN"
+        ],
+        "tags": [
+            "RIO GRANDE DO NORTE",
+            "TJRN"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 21ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt21.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "RN"
+        ],
+        "tags": [
+            "RIO GRANDE DO NORTE",
+            "TRT21"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 21ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt21.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "RN"
+        ],
+        "tags": [
+            "RIO GRANDE DO NORTE",
+            "TRT21"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado de Pernambuco",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.tjpe.jus.br/1g",
+        "system": "PJE",
+        "sysver": "2.1.10.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "08/06/2022",
+        "uf": [
+            "PE"
+        ],
+        "tags": [
+            "PERNAMBUCO",
+            "TJPE"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado de Pernambuco",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.tjpe.jus.br/2g",
+        "system": "PJE",
+        "sysver": "2.1.10.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "08/06/2022",
+        "uf": [
+            "PE"
+        ],
+        "tags": [
+            "PERNAMBUCO",
+            "TJPE"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 6ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt6.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PE"
+        ],
+        "tags": [
+            "PERNAMBUCO",
+            "TRT6"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 6ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt6.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PE"
+        ],
+        "tags": [
+            "PERNAMBUCO",
+            "TRT6"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado da Paraíba",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.tjpb.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.2.0.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "10/06/2022",
+        "uf": [
+            "PB"
+        ],
+        "tags": [
+            "PARAIBA",
+            "TJPB"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado da Paraíba",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.tjpb.jus.br/pje2g",
+        "system": "PJE",
+        "sysver": "2.2.0.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "10/06/2022",
+        "uf": [
+            "PB"
+        ],
+        "tags": [
+            "PARAIBA",
+            "TJPB"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 13ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt13.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PB"
+        ],
+        "tags": [
+            "PARAIBA",
+            "TRT13"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 13ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt13.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "PB"
+        ],
+        "tags": [
+            "PARAIBA",
+            "TRT13"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça de Alagoas",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://www2.tjal.jus.br/cpopg",
+        "system": "ESAJ",
+        "sysver": "2.6.0",
+        "signer": "WEBSIGNER",
+        "sigver": "2.14.3",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AL"
+        ],
+        "tags": [
+            "ALAGOAS",
+            "TJAL"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça de Alagoas",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://www2.tjal.jus.br/cposg5",
+        "system": "ESAJ",
+        "sysver": "2.6.0",
+        "signer": "WEBSIGNER",
+        "sigver": "2.14.3",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AL"
+        ],
+        "tags": [
+            "ALAGOAS",
+            "TJAL"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 19ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt19.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AL"
+        ],
+        "tags": [
+            "ALAGOAS",
+            "TRT19"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 19ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt19.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AL"
+        ],
+        "tags": [
+            "ALAGOAS",
+            "TRT19"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça de Sergipe",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://seeu.pje.jus.br/seeu/",
+        "system": "SEEU",
+        "sysver": "7.0.2",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SE"
+        ],
+        "tags": [
+            "SERGIPE",
+            "TJSE"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça de Sergipe",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://seeu.pje.jus.br/seeu/",
+        "system": "SEEU",
+        "sysver": "7.0.2",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SE"
+        ],
+        "tags": [
+            "SERGIPE",
+            "TJSE"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 20ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt20.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SE"
+        ],
+        "tags": [
+            "SERGIPE",
+            "TRT20"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 20ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt20.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "SE"
+        ],
+        "tags": [
+            "SERGIPE",
+            "TRT20"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Acre",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://esaj.tjac.jus.br/sajcas/login?service=https%3A%2F%2Fesaj.tjac.jus.br%2Fpetpg%2Fj_spring_cas_security_check",
+        "system": "ESAJ",
+        "sysver": "2.6.0",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AC"
+        ],
+        "tags": [
+            "ACRE",
+            "TJAC"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Acre",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://esaj.tjac.jus.br/sajcas/login?service=https%3A%2F%2Fesaj.tjac.jus.br%2Fpetsg%2Fj_spring_cas_security_check",
+        "system": "ESAJ",
+        "sysver": "2.6.0",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AC"
+        ],
+        "tags": [
+            "ACRE",
+            "TJAC"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 14ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt14.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AC",
+            "RO"
+        ],
+        "tags": [
+            "ACRE",
+            "RONDONIA",
+            "TRT14"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 14ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt14.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AC",
+            "RO"
+        ],
+        "tags": [
+            "ACRE",
+            "RONDONIA",
+            "TRT14"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Amapá",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.tjap.jus.br/1g",
+        "system": "PJE",
+        "sysver": "2.2.0.0-02",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "06/06/2022",
+        "uf": [
+            "AP"
+        ],
+        "tags": [
+            "AMAPA",
+            "TJAP"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Amapá",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.tjap.jus.br/2g",
+        "system": "PJE",
+        "sysver": "2.1.2.3",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "20/05/2022",
+        "uf": [
+            "AP"
+        ],
+        "tags": [
+            "AMAPA",
+            "TJAP"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 8ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt8.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AP",
+            "PA"
+        ],
+        "tags": [
+            "AMAPA",
+            "PARA",
+            "TRT8"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 8ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt8.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AP",
+            "PA"
+        ],
+        "tags": [
+            "AMAPA",
+            "PARA",
+            "TRT8"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Amazonas",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://consultasaj.tjam.jus.br/cpopg/open.do",
+        "system": "ESAJ",
+        "sysver": "2.6.0",
+        "signer": "WEBSIGNER",
+        "sigver": "2.14.3",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AM"
+        ],
+        "tags": [
+            "AMAZONAS",
+            "TJAM"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Amazonas",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://consultasaj.tjam.jus.br/cposgcr/open.do",
+        "system": "ESAJ",
+        "sysver": "2.6.0",
+        "signer": "WEBSIGNER",
+        "sigver": "2.14.3",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AM"
+        ],
+        "tags": [
+            "AMAZONAS",
+            "TJAM"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 11ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.trt11.jus.br/primeirograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "SHODO",
+        "sigver": "1.2.0",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AM",
+            "RR"
+        ],
+        "tags": [
+            "AMAZONAS",
+            "RORAIMA",
+            "TRT11"
+        ]
+    },
+
+    {
+        "name": "Tribunal Regional do Trabalho da 11ª Região",
+        "group": "Tribunais Regionais do Trabalho",
+        "group_id": 4.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.trt11.jus.br/segundograu",
+        "system": "PJE",
+        "sysver": "2.7.4.1",
+        "signer": "SHODO",
+        "sigver": "1.2.0",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "AM",
+            "RR"
+        ],
+        "tags": [
+            "AMAZONAS",
+            "RORAIMA",
+            "TRT11"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Pará",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pje.tjpa.jus.br/pje",
+        "system": "PJE",
+        "sysver": "2.1.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "30/05/2022",
+        "uf": [
+            "PA"
+        ],
+        "tags": [
+            "PARA",
+            "TJPA"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Pará",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pje.tjpa.jus.br/pje-2g",
+        "system": "PJE",
+        "sysver": "2.1.4.1",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "30/05/2022",
+        "uf": [
+            "PA"
+        ],
+        "tags": [
+            "PARA",
+            "TJPA"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado de Rondônia",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://pjepg.tjro.jus.br",
+        "system": "PJE",
+        "sysver": "2.1.9.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "18/05/2022",
+        "uf": [
+            "RO"
+        ],
+        "tags": [
+            "RONDONIA",
+            "TJRO"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado de Rondônia",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://pjesg.tjro.jus.br",
+        "system": "PJE",
+        "sysver": "2.1.9.0",
+        "signer": "PJE",
+        "sigver": "1.0.26",
+        "status": 1.0,
+        "lastUpdate": "18/05/2022",
+        "uf": [
+            "RO"
+        ],
+        "tags": [
+            "RONDONIA",
+            "TJRO"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Tocantins",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 1.0,
+        "baseUrl": "https://eproc1.tjto.jus.br/",
+        "system": "EPROC",
+        "sysver": "8.18.2",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "TO"
+        ],
+        "tags": [
+            "TOCANTINS",
+            "TJTO"
+        ]
+    },
+
+    {
+        "name": "Tribunal de Justiça do Estado do Tocantins",
+        "group": "Tribunais de Justiça",
+        "group_id": 3.0,
+        "grade": 2.0,
+        "baseUrl": "https://eproc2.tjto.jus.br/",
+        "system": "EPROC",
+        "sysver": "8.18.2",
+        "signer": "",
+        "sigver": "",
+        "status": 1.0,
+        "lastUpdate": "",
+        "uf": [
+            "TO"
+        ],
+        "tags": [
+            "TOCANTINS",
+            "TJTO"
+        ]
     }
 ]
