@@ -7,11 +7,11 @@
         "grade": 1.0,
         "baseUrl": "https://pje.tjmg.jus.br/pje",
         "system": "PJE",
-        "sysver": " 2.2.0.0.1.13",
+        "sysver": " 2.2.0.0.1.15",
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
-        "lastUpdate": "13/06/2022",
+        "lastUpdate": "21/06/2022",
         "uf": [
             "MG"
         ],
@@ -28,7 +28,7 @@
         "grade": 2.0,
         "baseUrl": "https://pe.tjmg.jus.br/rupe/portaljus/intranet/principal.rupe#",
         "system": "JPE",
-        "sysver": "9.9.17_20220531164345",
+        "sysver": "9.12.0_20220613123431",
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
@@ -53,7 +53,7 @@
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
-        "lastUpdate": "10/06/2022",
+        "lastUpdate": "15/06/2022",
         "uf": [
             "AC",
             "AM",
@@ -101,7 +101,7 @@
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
-        "lastUpdate": "10/06/2022",
+        "lastUpdate": "15/06/2022",
         "uf": [
             "AC",
             "AM",
@@ -150,7 +150,7 @@
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
-        "lastUpdate": "09/06/2022",
+        "lastUpdate": "13/06/2022",
         "uf": [
             "SP",
             "MS"
@@ -174,7 +174,7 @@
         "signer": "PJE",
         "sigver": "1.0.26",
         "status": 1.0,
-        "lastUpdate": "09/06/2022",
+        "lastUpdate": "13/06/2022",
         "uf": [
             "SP",
             "MS"
@@ -493,7 +493,7 @@
         "grade": 1.0,
         "baseUrl": "https://eproc.trf2.jus.br/eproc/",
         "system": "EPROC",
-        "sysver": "8.23.1",
+        "sysver": "8.24.1-1.598.2",
         "signer": "",
         "sigver": "",
         "status": 1.0,
@@ -516,7 +516,7 @@
         "grade": 2.0,
         "baseUrl": "https://eproc.trf2.jus.br/eproc/",
         "system": "EPROC",
-        "sysver": "8.23.1",
+        "sysver": "8.24.1-1.598.2",
         "signer": "",
         "sigver": "",
         "status": 1.0,
